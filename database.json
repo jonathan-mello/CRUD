@@ -1,0 +1,24 @@
+[
+    {
+        "nome": "Eliton",
+        "email": "eliton@gmail.com",
+        "password": "senha123",
+        "endereco": {
+            "cep": "01234-567",
+            "rua": "Rua Exemplo",
+            "numero": "123",
+            "bairro": "Bairro Exemplo"
+        }
+    },
+    {
+        "nome": "Andrei da Silva",
+        "email": "andrei@gmail.com",
+        "password": "senha432",
+        "endereco": {
+            "cep": "01234-567",
+            "rua": "Rua Exemplo",
+            "numero": "123",
+            "bairro": "Bairro Exemplo"
+        }
+    }
+]
